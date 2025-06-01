@@ -24,7 +24,7 @@ To answer the business
 I used Power BI or Excel 
 
 # Data visualization
-
+[Background of the Dashboard](https://github.com/hashleyed/Sales-Analysis/blob/main/Picture1.png)
 
 ## Insights 
 From the anlysis, The Nord region has major sales for the whole year 2024.
