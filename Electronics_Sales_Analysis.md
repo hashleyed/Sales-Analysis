@@ -25,10 +25,11 @@ I used Power BI or Excel
 
 # Data visualization
 
-# Insights 
+
+## Insights 
 From the anlysis, The Nord region has major sales for the whole year 2024.
 
-# Recommendations
+## Recommendations
 To boost sales, we can add more stocks  to the Nord region.
 
-# Conclusion
+## Conclusion
